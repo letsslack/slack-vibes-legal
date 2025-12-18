@@ -58,6 +58,9 @@ You are responsible for:
 - Keeping your Slack tokens and signing secret secure
 - Operating your generated Slack app in compliance with Slack’s policies and applicable law
 
+For Terms of Service, see:
+https://letsslack.github.io/slack-vibes-legal/terms 
+
 ## Contact
 
 For privacy questions or requests, contact:
